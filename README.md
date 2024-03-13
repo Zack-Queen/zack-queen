@@ -32,7 +32,4 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=zack-queen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<div class="tenor-gif-embed" data-postid="26042206" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-<a href="https://tenor.com/view/hollow-knight-the-knight-dance-kazotsky-kick-gif-26042206">Hollow Knight The Knight GIF</a>from <a href="https://tenor.com/search/hollow+knight-gifs">Hollow Knight GIFs</a>
-</div> 
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
