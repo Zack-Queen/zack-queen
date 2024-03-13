@@ -10,7 +10,9 @@
 - ⚡ Fun fact: With great programs come great projects!
 
 ## Tools, Technologies and learning about:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
+          
+          
           
 
 ## - 📫 How to reach me:
@@ -30,3 +32,4 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=zack-queen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+<div class="tenor-gif-embed" data-postid="26042207" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hollow-knight-the-knight-dance-break-dance-spin-gif-26042207">Hollow Knight The Knight GIF</a>from <a href="https://tenor.com/search/hollow+knight-gifs">Hollow Knight GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
