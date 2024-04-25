@@ -32,4 +32,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=zack-queen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+![snake gif](https://github.com/zack-queen/zack-queen/blob/output/github-contribution-grid-snake-dark.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=zack-queen&repo=zack-queen&theme=react)].(https://github.com/zack-queen/zack-queen)
 
