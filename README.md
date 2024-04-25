@@ -1,3 +1,5 @@
+<img align="right" alt="" height="300px" src="./Cobra.png">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Oiê+me+chamo+Júlia!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on ...
@@ -22,21 +24,20 @@
 </div>
                             
 
-### - 📫 How to reach me:
+###  Let's Talk!?
 
 <div>
-<a href="https://www.youtube.com/@queenjuubee" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=BB00B4" target="black"></a>
+<a href="https://www.linkedin.com/in/julia-zacharin" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=BB00B4" target="_blank"></a>  
 <a href="https://instagram.com/juuh_zack" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=BB00B4" target="_blank"></a>
 <a href="https://www.twitch.tv/zackqueen_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=BB00B4" target="_blank"></a>
 <a href = "mailto:queenjuubee@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=BB00B4" target="_blank"></a>
-<a href="https://www.linkedin.com/in/julia-zacharin" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=BB00B4" target="_blank"></a>   
 </div>
 
-
+###  GitHub Stats
 <div>
 <a href="https://github.com/zack-queen">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zack-queen&layout=compact&langs_count=7&theme=synthwave"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=zack-queen&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zack-queen&layout=compact&langs_count=7&bg_color=000&title_color=BB00B4&text_color=ffffff&border_radius=3&border_color=BB00B4"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=zack-queen&show_icons=true&bg_color=000&title_color=BB00B4&text_color=ffffff&border_radius=3&border_color=BB00B4&include_all_commits=true&count_private=true"/>
 </div>
 
 <picture>
@@ -46,4 +47,3 @@
 </picture>
 <br><br>
 
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zack-queen&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=BB00B4&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=BB00B4&count_private=true)](https://github.com/zack-queen/github-readme-stats)
