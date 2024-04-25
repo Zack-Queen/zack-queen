@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Oiê+me+chamo+Júlia!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
-<img align="right" alt="" height="400px" src="./Cobra.png">
+<img align="right" alt="" height="400px" src="./Corvo.png">
 
 <p align="left">Estou estudando Front End com o Programa One da Oracle com parceria da Alura.
 Tenho interesse no mundo tecnológico, principalmente no mercado Jogos digitais! Estou graduada na FATEC no curso de Jogos Digitais e tenho certificados em cursos de TI, Lógica, FrontEnd, AutoDesenvolvimento, Gestão Ágil e claro conhecimento em Ilustração e Animação.
