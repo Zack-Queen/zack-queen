@@ -32,10 +32,8 @@ Meu principal foco é me tornar uma Game Designer, e quero poder fazer jogos com
 </div>
 
 ###  GitHub Stats
-<a href="https://github.com/zack-queen">  
-<img align="left" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zack-queen&layout=compact&langs_count=7&bg_color=000&title_color=BB00B4&text_color=ffffff&border_radius=3&border_color=BB00B4"/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zack-queen&show_icons=true&bg_color=000&title_color=BB00B4&text_color=ffffff&border_radius=3&border_color=BB00B4)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=zack-queen&show_icons=true&bg_color=000&title_color=BB00B4&text_color=ffffff&border_radius=3&border_color=BB00B4)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=zack-queen&layout=compact&bg_color=000&title_color=BB00B4&text_color=ffffff&border_radius=3&border_color=BB00B4)](https://github.com/zack-queen/github-readme-stats)
 
 
 <picture>
