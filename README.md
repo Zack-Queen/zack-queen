@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Oiê+me+chamo+Júlia!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
-<img align="right" alt="" height="400px" src="./Corvo.png">
+<img align="right" alt="Corvo ZackQueen" height="400px" src="./Corvo.png">
 
 <p align="left">Estou estudando Front End com o Programa One da Oracle com parceria da Alura.
 Tenho interesse no mundo tecnológico, principalmente no mercado Jogos digitais! Estou graduada na FATEC no curso de Jogos Digitais e tenho certificados em cursos de TI, Lógica, FrontEnd, AutoDesenvolvimento, Gestão Ágil e claro conhecimento em Ilustração e Animação.
@@ -32,11 +32,11 @@ Meu principal foco é me tornar uma Game Designer, e quero poder fazer jogos com
 </div>
 
 ###  GitHub Stats
-<div>
-<a href="https://github.com/zack-queen">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zack-queen&layout=compact&langs_count=7&bg_color=000&title_color=BB00B4&text_color=ffffff&border_radius=3&border_color=BB00B4"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=zack-queen&show_icons=true&bg_color=000&title_color=BB00B4&text_color=ffffff&border_radius=3&border_color=BB00B4&include_all_commits=true&count_private=true"/>
-</div>
+<a href="https://github.com/zack-queen">  
+<img align="left" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zack-queen&layout=compact&langs_count=7&bg_color=000&title_color=BB00B4&text_color=ffffff&border_radius=3&border_color=BB00B4"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zack-queen&show_icons=true&bg_color=000&title_color=BB00B4&text_color=ffffff&border_radius=3&border_color=BB00B4)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zack-queen/zack-queen/output/github-contribution-grid-snake-dark.svg">
