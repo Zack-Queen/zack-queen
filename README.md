@@ -21,7 +21,7 @@ Meu principal foco é me tornar uma Game Designer, e quero poder fazer jogos com
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="28" height="28"/><img />
 </div>
                             
-
+#
 ###  Let's Talk!?
 
 <div>
@@ -31,9 +31,11 @@ Meu principal foco é me tornar uma Game Designer, e quero poder fazer jogos com
 <a href = "mailto:queenjuubee@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=BB00B4" target="_blank"></a>
 </div>
 
+
 ###  GitHub Stats
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=zack-queen&show_icons=true&bg_color=000&title_color=BB00B4&text_color=ffffff&border_radius=3&border_color=BB00B4)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=zack-queen&layout=compact&bg_color=000&title_color=BB00B4&text_color=ffffff&border_radius=3&border_color=BB00B4)](https://github.com/zack-queen/github-readme-stats)
+
 
 
 <picture>
